@@ -31,3 +31,4 @@ print("%.2f"%dist)
 
 
 ### RESULT:
+Thus the distance between two points are successfully executed.
