@@ -31,4 +31,4 @@ print("%.2f"%dist)
 
 
 ### RESULT:
-Thus the program to find the distance between two points is written and verifiend using python programming.
+Thus the program to find the distance between two points is written and verified using python programming.
